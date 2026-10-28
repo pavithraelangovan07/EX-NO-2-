@@ -226,7 +226,7 @@ int main()
     strcpy(key, "Monarchy");
     printf("Key text: %s\n", key);
 
-    strcpy(str, "instruments");
+    strcpy(str, "pavithra");
     printf("Plain text: %s\n", str);
 
     encryptByPlayfairCipher(str, key);
@@ -243,7 +243,7 @@ int main()
 
 
 ## Output:
-<img width="1917" height="1146" alt="image" src="https://github.com/user-attachments/assets/94e0ad12-6533-447e-a8da-f262f5761d74" />
+<img width="1915" height="1140" alt="image" src="https://github.com/user-attachments/assets/989621af-87c7-4c57-96f0-e0f813ed4056" />
 
 
 ## RESULT:
